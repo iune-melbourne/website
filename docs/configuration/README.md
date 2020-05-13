@@ -16,7 +16,7 @@ To view the list of available flags to use in Melbourne, we can access the `flag
 
 By default, there are three folders of flags: `ISC`, `World`, and `Rect`. To use flags from each of these folders, simply use the format `<folder>/<flag filename>` in the Excel spreadsheet (ex: `ISC/Kaledonii.png` or `World/ee.png`).
 
-* **ISC** is the set of flags available for countries in the Internatia Song Contest on escforum.net.
+* **ISC** is the set of flags available for countries in the Internatia Song Contest on [escforum.net](http://escforum.net).
 * **World** is a set of square flags available for real-world countries. Each country's flag is saved with its two letter ISO code in lowercase.
 * **Rect** is a set of rectangular flags available for real-world countries. Similar to `World`, each country's flag is saved with its two letter ISO code in lowercase.
 * Notes:
